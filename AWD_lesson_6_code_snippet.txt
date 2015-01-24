@@ -1,0 +1,22 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Function</title>
+<script type="text/javascript">
+
+function hello(startvalue) {
+	var temp = "";
+	for (var i=startvalue; i<=126; i++) { //9
+		temp = temp + String.fromCharCode(i) + " ";
+	}
+	document.write(temp);
+}
+</script>
+</head>
+
+<body>
+<input type="button" value="Write Loop" onclick="hello(32);" />
+
+</body>
+</html>
+

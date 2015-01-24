@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8" ?><info>	<infoitem key="UD_rs" value="name:SurveyID;datatype:int,name:FirstName;datatype:string,name:LastName;datatype:string,name:Age;datatype:int,name:Gender;datatype:string,name:City;datatype:string,name:Country;datatype:string,name:EmailAddress;datatype:string,name:Comments;datatype:blob,name:DateAdded;datatype:timestamp" /></info>
